@@ -1,0 +1,15 @@
+{
+  "filename": "img9.jpg",
+  "detections": [
+    {
+      "label": "Hand in glove detection - v1 2024-03-14 4-42pm",
+      "confidence": 0.9069997668266296,
+      "bbox": [
+        6.9745025634765625,
+        0.0,
+        156.86302185058594,
+        148.0
+      ]
+    }
+  ]
+}

@@ -4,8 +4,9 @@ This folder contains:
 
 - `detection_script.py` — Inference script that reads a folder of images and outputs annotated images + per-image JSON logs.
 - `output_folder/` — Sample annotated images (add 3–5 images after you run the script).
-- `detections_logs/` — Per-image JSON logs in the required schema.
-- `input_folder/` - folder conatinig images to be processed.
+- `detections_logs/` — Per-image JSON logs in the required schema generted by the script.
+- `models/` - folder containing YOLOv8 weights.
+- `input_folder/` - folder conatining images to be processed.
 
 ---
 
